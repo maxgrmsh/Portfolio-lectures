@@ -167,8 +167,8 @@ ul { padding: 0; list-style: none; }
 /* рукописна примітка зі стрілкою */
 .hero__note {
   position: absolute;
-  left: 753.75px;
-  top: 238px;
+  left: 648px;
+  top: 116px;
   pointer-events: none;
 }
 
